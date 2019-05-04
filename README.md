@@ -13,3 +13,6 @@ brew tap jrussellsmyth/extra
 
 brew [cask] install [cask|formula]
 ```
+
+# Howto
+[How to create and maintain a Tap](https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md)
