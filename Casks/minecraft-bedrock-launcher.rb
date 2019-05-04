@@ -1,4 +1,4 @@
-https://mrarm.io/r/mcpelauncher-osxcask 'microsoft-bedrock-edition' do
+cask 'minecraft-bedrock-launcher' do
   version :latest
   sha256 :no_check
 
