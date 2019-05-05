@@ -1,0 +1,24 @@
+# This file provides a single place to configure all brew installed Applications
+
+cask_args appdir: "/Applications"
+# for jdk versions, firefox dev
+tap "homebrew/cask-versions"
+
+cask "docker"
+cask "archi"
+cask "visual-studio-code"
+cask "java11"
+cask "java"
+cask "netbeans"
+cask "postman"
+cask "firefox-developer-edition"
+cask "google-chrome-canary"
+cask "iterm2"
+cask "insomnia"
+cask "postman"
+
+brew "maven"
+brew "nvm"
+brew "jq"
+brew "cmake"
+

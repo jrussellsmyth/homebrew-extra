@@ -1,0 +1,6 @@
+# This file provides a single place to configure all brew installed Applications
+
+cask_args appdir: "/Applications"
+tap "homebrew/cask-versions"
+
+cask "discord"

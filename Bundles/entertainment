@@ -1,0 +1,12 @@
+cask_args appdir: "/Applications"
+
+cask "steam"
+# starcraft II
+cask "battle-net"
+# starcraft remastered
+cask "starcraft"
+cask "mame"
+cask "clementine"
+cask "amazon
+cask "amazon-music"
+brew "enigma"

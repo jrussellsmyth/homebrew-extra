@@ -1,0 +1,21 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "jrussellsmyth/extra"
+brew "libusb"
+brew "mas"
+brew "tree"
+brew "wget"
+cask "firefox"
+cask "slack"
+cask "mincraft-bedrock-launcher"
+mas "Blackmagic Disk Speed Test", id: 425264550
+mas "Display Menu", id: 549083868
+mas "iMovie", id: 408981434
+mas "Install macOS Mojave", id: 0
+mas "Microsoft Remote Desktop", id: 715768417
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Parallels Desktop Lite", id: 1085114709
+mas "Speedtest", id: 1153157709
+mas "Xcode", id: 497799835
