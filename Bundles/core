@@ -6,5 +6,6 @@ cask "keeweb"
 cask "keepassxc"
 cask "haptickey"
 cask "android-file-transfer"
-cask "openoffice"
+cask "openoffice
+cask "disk-inventory-x"
 brew "wget"

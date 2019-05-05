@@ -21,4 +21,5 @@ brew "maven"
 brew "nvm"
 brew "jq"
 brew "cmake"
+brew "wireshark"
 
