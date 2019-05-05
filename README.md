@@ -14,7 +14,7 @@ brew tap jrussellsmyth/extra
 brew [cask] install [cask|formula]
 ```
 
-#Predefined Bundles
+# Predefined Bundles
 Application sets listed in Bundles can be installed with
 
 ```bash
