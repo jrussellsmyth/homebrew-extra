@@ -8,4 +8,5 @@ cask "haptickey"
 cask "android-file-transfer"
 cask "openoffice
 cask "disk-inventory-x"
+cask "wineskin-winery"
 brew "wget"
