@@ -1,16 +1,16 @@
 cask_args appdir: "/Applications"
 
-cask "fusion360"
+# cask "fusion360"
 cask "ultimaker-cura"
 
 # Combine an FFmpeg powered back-end with VLC rendered previews, then add in file size estimation, 
 # a gorgeous user interface and make it entirely free. That is Adapter - the ultimate converter app for Mac and PC.
 # https://macroplant.com/adapter
-# cask "adapter"
+cask "adapter"
 
 # Open-source 2D Animation Software
 # https://synfig.org/
-# cask synfigstudio
+cask synfigstudio
 
 cask "reaper"
 cask "synth1-vst"
