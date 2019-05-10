@@ -10,7 +10,7 @@ cask "adapter"
 
 # Open-source 2D Animation Software
 # https://synfig.org/
-cask synfigstudio
+cask "synfigstudio"
 
 cask "reaper"
 cask "synth1-vst"
