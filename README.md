@@ -4,13 +4,13 @@ Primarily maintained for my dotfiles bootstrap
 
 # Use
 ```bash
-brew [cask] install jrussellsmyth/extra/[cask|formula]
+brew [cask] install jrussellsmyth/tap/[cask|formula]
 ```
 
 or
 
 ```bash
-brew tap jrussellsmyth/extra
+brew tap jrussellsmyth/tap
 
 brew [cask] install [cask|formula]
 ```
