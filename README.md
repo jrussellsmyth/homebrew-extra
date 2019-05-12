@@ -1,5 +1,6 @@
-# homebrew-extra
-Missing formulae and casks for homebrew, primarily for my dotfiles bootstrap
+# jrussellsmyth/tap
+A Tap that includes things missing from core Homebrew Taps.
+Primarily maintained for my dotfiles bootstrap
 
 # Use
 ```bash
