@@ -1,4 +1,4 @@
-cask_args appdir: "/Applications"
+#cask_args appdir: "/Applications"
 
 cask "steam"
 # starcraft II
@@ -10,3 +10,5 @@ cask "clementine"
 cask "amazon
 cask "amazon-music"
 brew "enigma"
+cask "jrussellsmyth/tap/minecraft-bedrock-launcher"
+
