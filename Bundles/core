@@ -7,5 +7,7 @@ cask "haptickey"
 cask "android-file-transfer"
 cask "disk-inventory-x"
 cask "wineskin-winery"
+cask "firefox"
+cask "google-chrome"
 
 
