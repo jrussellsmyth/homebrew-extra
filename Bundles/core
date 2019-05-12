@@ -1,12 +1,11 @@
-cask "firefox"
-cask "google-chrome"
+brew "mas"
+brew "wget"
 cask "hammerspoon"
-cask "slack"
 cask "keeweb"
 cask "keepassxc"
 cask "haptickey"
 cask "android-file-transfer"
-cask "openoffice
 cask "disk-inventory-x"
 cask "wineskin-winery"
-brew "wget"
+
+
