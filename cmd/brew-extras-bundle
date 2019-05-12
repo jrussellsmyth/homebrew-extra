@@ -1,1 +1,0 @@
-brew bundle --file=$HOMEBREW_LIBRARY/Taps/jrussellsmyth/homebrew-extra/Bundles/$1
