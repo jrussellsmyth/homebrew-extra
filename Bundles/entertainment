@@ -7,7 +7,6 @@ cask "battle-net"
 cask "starcraft"
 cask "mame"
 cask "clementine"
-cask "amazon
 cask "amazon-music"
 brew "enigma"
 cask "jrussellsmyth/tap/minecraft-bedrock-launcher"
