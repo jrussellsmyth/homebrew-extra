@@ -1,6 +1,4 @@
-# This file provides a single place to configure all brew installed Applications
-
-cask_args appdir: "/Applications"
+# cask_args appdir: "/Applications"
 # for jdk versions, firefox dev
 tap "homebrew/cask-versions"
 
