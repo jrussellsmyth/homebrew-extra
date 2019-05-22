@@ -4,7 +4,7 @@ cask 'tyrelln6' do
 
   url 'http://www.amazona.de/wp-content/tyrell/TyrellN6_V303_Mac.zip'
   name 'Tyrell N6 Synth'
-  homepage 'https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6'
+  homepage 'https://u-he.com/products/tyrelln6/'
 
   pkg 'TyrellN6 3.0.3898 Installer.pkg'
 
