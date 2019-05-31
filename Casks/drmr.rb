@@ -6,7 +6,7 @@ cask 'drmr' do
   name 'Beat DRMR'
   homepage 'https://www.kvraudio.com/product/beat-drmr-by-beat'
 
-  audio_unit_plugin 'Beat_DRMR-Mac/Beat_DRMR-MacAudioUnit/Beat DRMR.component'
-  vst_plugin 'Beat_DRMR-Mac/Beat_DRMR-MacVST/Beat DRMR.vst'
+  audio_unit_plugin 'Beat_DRMR-MacAudioUnit/Beat DRMR.component'
+  vst_plugin 'Beat_DRMR-MacVST/Beat DRMR.vst'
 
 end
