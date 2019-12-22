@@ -1,12 +1,12 @@
 cask 'loopcloud' do
-  version '4.0'
-  sha256  '5b22efbc5876848bf22d46aae11755957025ea6ae87e49eeaab87d35ee467c28'
+  version '5.0'
+  sha256  '532b43df075a0940f80803b5728fae68017c702f2389a50dd423890a031dcc7c'
 
-  url 'https://loopmasters.com/lc/resources/InstallLoopcloudMac.pkg'
+  url 'https://www.loopmasters.com/cloud/autoupdate/mac/dev/versions/Install%20Loopcloud%205.0.31%20Mac.pkg.zip'
   name 'LoopCloud'
   homepage 'https://www.loopcloud.net/'
 
-  pkg 'InstallLoopcloudMac.pkg'
+  pkg 'build/Install Loopcloud 5.0.31 Mac.pkg'
 
   uninstall pkgutil: 'com.loopmasters.Loopcloud'
 end
