@@ -6,5 +6,5 @@ cask 'littleroadey-au' do
   name 'Laptop Musician Little Roadey Electric Piano AU plugin'
   homepage 'https://www.laptopmusician.net/2019/06/exclusive-free-plugin-little-roadey.html'
 
-  au_plugin 'Little Roadey macOS x64 AU/Little Roadey.component'
+  audio_unit_plugin 'Little Roadey macOS x64 AU/Little Roadey.component'
 end
